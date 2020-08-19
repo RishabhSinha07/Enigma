@@ -9,3 +9,7 @@ can be changed from "config.json" file.
 -- Do not change Rotor left and right settings. Initially all the rotors are connected correctly to the counter parts, by changig tne "rotation_ticks" the setting inside the 
 -- rotor will get scrambles more and more as the conversion continues.
 -- "reflector" should be configured such a way that all the letters are connected exactly to its opposite letter, example if A->B then B->A .
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RishabhSinha07/Enigma/master/Diagram/First.PNG" width="85%" title="Page Models" alt="Example of pages1">
+</p>
